@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tun35770 (Ryan)
 - 👀 I’m interested in -> Web Development!
-- 🌱 I’m currently learning -> React.js
+- 🌱 I’m currently learning -> MERN stack
 - 📫 How to reach me -> tun35770@temple.edu
 
 <!---
